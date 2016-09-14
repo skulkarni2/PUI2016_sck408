@@ -42,5 +42,6 @@ I typed this series
 	
 As we can see, my new alias bring me to the PUI2016_sck408 folder, thus, it works.
 
+![Screenshot 3: Alias Created ](/HW1_sck408/alias created.png)
 
 
