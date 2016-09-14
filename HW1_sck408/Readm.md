@@ -30,7 +30,7 @@ once again to add the alias using the previously made env variable by typing
 	alias pui2016='cd $PUI2016'
 
 
-![Screenshot 3: bashrc profile ](/HW1_sck408/barhrc profile.png)
+![Screenshot 3: bashrc profile ](/HW1_sck408/bashrc profile.png)
 
 ### 4.Type commands to confirm the new variable and alias work perferctly.
 
