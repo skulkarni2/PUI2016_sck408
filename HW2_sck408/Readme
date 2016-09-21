@@ -1,4 +1,15 @@
-#Homework submission -2
+Homework submission -2
 
-### Assignment 1
+Assignment 1:
+I discussed the assignment logic with Priyanshi and did it on my own. Before writing the script I loaded the json file in Ipython notebook to 
+view the dataset column head. Once I got the column names and the information in each of them I was able to wrtie the python script.
+
+Assignment 2:
+The hint was provided on which column is to be used making it easy to work. Also the case-sentivity metioned gave me the important note.
+
+Assignment 3:
+I referred the UInotebooks and followed the steps. 
+
+Extra credit:
+I followed the assignment three with the hint provided.
 
