@@ -2,6 +2,7 @@
 
 I worked on the lines of the Chisquare distribution done in lab session during class. 
 I downloaded seaborn and used it to plot my graphs. 
+
 Extra credit - 
 I used the docstring for norm.fit and pdf to understand the function and the syntax for it. 
 
