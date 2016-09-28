@@ -11,6 +11,9 @@ I used the docstring for norm.fit and pdf to understand the function and the syn
 
 I worked with Sunny to formulate the hypothesis for the citibike data.
 We chose to see the seasonal variation in citibike trip duration. 
+I tried using the file download code from the example given Dr. Bianco but was unable to run the code, so I downloaded the required files locally and formulated the hypothesis and the plot for the dataset. 
+
+I used the '201501' ,'201502' , '201507'  and '201508' datasets for the assignment.
 
 ## Assignment 3
 
