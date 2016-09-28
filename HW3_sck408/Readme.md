@@ -1,7 +1,7 @@
 ## Assignment 1 
 
 I worked on the lines of the Chisquare distribution done in lab session during class for other distributions. 
-I worked on this part of th homework by myself. I later discussed 
+I worked on this part of th homework by myself. I later discussed the distributions with Priyanshi and Sunny to know the different types of distribution they did for the assignment (one of their choice). 
 I downloaded seaborn and used it to plot my graphs. 
 
 Extra credit - 
