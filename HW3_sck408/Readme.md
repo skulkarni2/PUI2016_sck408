@@ -1,6 +1,7 @@
 ## Assignment 1 
 
-I worked on the lines of the Chisquare distribution done in lab session during class. 
+I worked on the lines of the Chisquare distribution done in lab session during class for other distributions. 
+I worked on this part of th homework by myself. I later discussed 
 I downloaded seaborn and used it to plot my graphs. 
 
 Extra credit - 
