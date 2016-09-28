@@ -7,6 +7,11 @@ I downloaded seaborn and used it to plot my graphs.
 Extra credit - 
 I used the docstring for norm.fit and pdf to understand the function and the syntax for it. 
 
+## Assignment 2 
+
+I worked with Sunny to formulate the hypothesis for the citibike data.
+We chose to see the seasonal variation in citibike trip duration. 
+
 ## Assignment 3
 
 I worked with Achilles in the class to get the z-test value and we were able to get it in class itself. 
