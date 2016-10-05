@@ -2,6 +2,8 @@
 # Homework 4
 ## Assignment 1 :
 Submitted a citibike proposal review for xg656 based on the outline provided. 
+I forked the PUI2016 homework repository and reviewd the citibike proposal. 
+
 ## Assignment 2:
 
 ## Assignment 3:
@@ -12,5 +14,6 @@ This assignment used the table from the article
 ## Assignment 4:
 Worked on KS, Pearson's and Spearson's tests on the Citibike dataset for the month on July 2015. I choose July as it is a warmer month and has more data. 
 The tests were performed on rider's age by gender and time of the day (night or day time) to undertsand the correlations and some other observations. 
-I used lecture slides as well as Statistics in Nutshell book chapters to undertand and interpret the results of the tests. 
+I spent a considerable amount of time understanding the tests and their codes from the docstrings. I used lecture slides as well as Statistics in Nutshell book chapters to undertand and interpret the results of the tests. 
 I worked on this assignment alone but had initial discussion on understanding the assignment with Priyanshi and Achilles. 
+I attempted the extra credit question and it was really helpful for me understanding and intrepreting the test results. It did help but required a lot of time.
