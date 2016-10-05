@@ -10,8 +10,13 @@ Further the data has been normalised and plotted giving a better understanding o
 
 ## c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
 According to the hypothesis question trip duration is the continuous dependent variable on age group (dichotomous variable taking two types of values). The dataset is divided into two distinct groups -
-1. Riders between 20-40 age group
-2. Riders between 40-60 age group
-Thus t-test is suitable for this proposal which tests the difference between two groups. 
-The correlation test could also be suitable as it has similar parameters as t-test. This test would show the direction (+/-) of the relation between independent and dependent variable. 
-Note: If the bin size is reduced and the data is divided into more groups then ANOVA test would be suitable for testing the hypothesis. 
+  1. Riders between 20-40 age group
+  
+  2. Riders between 40-60 age group
+
+
+Thus **t-test** is suitable for this proposal which tests the difference between two groups. 
+The **correlation test** could also be suitable as it has similar parameters as t-test. This test would show the direction (+/-) of the relation between independent and dependent variable. 
+
+
+Note: If the bin size is reduced and **the data is divided into more groups then ANOVA test** would be suitable for testing the hypothesis. 
