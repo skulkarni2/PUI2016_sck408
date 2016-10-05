@@ -1,6 +1,6 @@
 ## Assignment 1:
 ## a. verify that their Null and alternative hypotheses are formulated correctly
-**Hypothesis :**Trip duration of people who are in the age (20,40] is longer than those in the age (40,60]
+**Hypothesis :**Trip duration of people who are in the age (20-40) is longer than those in the age (40-60)
 The proposal doesnt clearly states the null hypothesis so I take the above statement and assume a null hypothesis to be - Trip duration of people between (20-40) is less than that of (40-60).
 It would have been better to explicitly state both the hypotheses and then carry out tests to reject the null hypothesis. 
 
@@ -13,3 +13,4 @@ According to the hypothesis question trip duration is the dependent variable on 
 1. Riders between 20-40 age group
 2. Riders between 40-60 age group
 Thus t-test is suitable for this proposal which tests the difference between two groups. 
+If the bin size is reduced and the data is divided into more groups then ANOVA test would be suitable for testing the hypothesis. 
