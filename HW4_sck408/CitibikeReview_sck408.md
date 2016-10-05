@@ -9,3 +9,7 @@ The data has been properly extracted to fit the analysis as per the hypothesis. 
 Further the data has been normalised and plotted giving a better understanding of the data. Also they have calculated the error and ploted it giving a clear idea of the hypothesis. 
 
 ## c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+According to the hypothesis question trip duration is the dependent variable on age group (dichotomous variable taking two types of values). The dataset is divided into two distinct groups -
+1. Riders between 20-40 age group
+2. Riders between 40-60 age group
+Thus t-test is suitable for this proposal which tests the difference between two groups. 
