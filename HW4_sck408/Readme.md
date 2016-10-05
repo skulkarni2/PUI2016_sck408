@@ -17,8 +17,9 @@ MANOVA	| 3, CO~2 exposure, conditioning, and testing cue | interval | 1, antipre
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|:-------|
 Path Analysis	| 2(1-1), (1: two ddistinct cultures and languages) - (1 - professional actors and emotion inference by naïve listeners) | continuous (could also be categoridcal) | 5, differents emotion (anger,fear, happiness, sadness, tenderness)| categorical | NA | NA | 	The selected vocal parameters (distal/acoustic and proximal/perceived) are differentially related to different emotions | There is no central role of arousal in vocal emotion | There is a central role of arousal in vocal emotion communication | 0.02 | [Path Models of Vocal Emotion Communication](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0136675) |
 
-## Assignment 3:
-Worked through a z-test and chi-square test recreating the results published in the accompaning article.
+## Assignment 3: Reproduce the analysis of the Hard to Employ programs for NY. 
+Worked through a z-test and chi-square test recreating the results published in the article [What strategies work for Hard-to-Employ?] http://www.mdrc.org/sites/default/files/What%20Strategies%20Work%20for%20the%20Hard%20FR.pdf
+Worked on Recidivism part of the data for _employed in a CEO transitional job_ and _Convicted of a felony_
 Worked on the assignment alone from the ipython notebook provided by the instructor and filled up the blanks in the code to get the results.      
 
 ## Assignment 4:
