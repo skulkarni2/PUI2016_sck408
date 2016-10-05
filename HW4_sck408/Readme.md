@@ -11,8 +11,7 @@ MANOVA	| 1, Ranks of values | ordinal | 1, did Self Affirmation or no| categoric
 
 ## Assignment 3:
 Worked through a z-test and chi-square test recreating the results published in the accompaning article.
-Worked on the assignment from the ipython notebook provided by the instructor and filled up the blanks in the code to get the results.
-This assignment used the table from the article       
+Worked on the assignment alone from the ipython notebook provided by the instructor and filled up the blanks in the code to get the results.      
 
 ## Assignment 4:
 Worked on KS, Pearson's and Spearson's tests on the Citibike dataset for the month on July 2015. I choose July as it is a warmer month and has more data. 
