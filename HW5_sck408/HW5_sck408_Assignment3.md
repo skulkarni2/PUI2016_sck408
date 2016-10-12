@@ -1,7 +1,6 @@
 # Assignment 3: Practice formulating the null hypothesis:
 
 
-
 ### 1)  - Do diets help lose more fat than the exercise?
 
 Significance Level - 0.05 or 5%
