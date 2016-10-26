@@ -10,6 +10,8 @@ The interactive map could be viewed on [viewer]
 
 ![inline- style](https://github.com/skulkarni2/PUI2016_sck408/blob/master/HW7_sck408/plot.jpg)
 
+The colours chosen are colorblind compliant. 
+
 ### Dependency:
 
 As the plot is created using Bokeh package, to view the plot one has to install the package. 
