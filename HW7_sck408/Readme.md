@@ -9,8 +9,7 @@ The interactive map could be viewed on [viewer]
 (http://nbviewer.jupyter.org/github/skulkarni2/PUI2016_sck408/blob/master/HW7_sck408/HW7_sck408.ipynb)  and the plot is 
 
 ![inline- style](https://github.com/skulkarni2/PUI2016_sck408/blob/master/HW7_sck408/plot.jpg)
-
-The colours chosen are colorblind compliant. 
+ 
 
 ### Dependency:
 
