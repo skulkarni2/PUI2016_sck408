@@ -1,42 +1,13 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "# Plot review"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {
-    "collapsed": true
-   },
-   "outputs": [],
-   "source": []
-  }
- ],
- "metadata": {
-  "anaconda-cloud": {},
-  "kernelspec": {
-   "display_name": "Python [default]",
-   "language": "python",
-   "name": "python3"
-  },
-  "language_info": {
-   "codemirror_mode": {
-    "name": "ipython",
-    "version": 3
-   },
-   "file_extension": ".py",
-   "mimetype": "text/x-python",
-   "name": "python",
-   "nbconvert_exporter": "python",
-   "pygments_lexer": "ipython3",
-   "version": "3.5.2"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 1
-}
+It is interseting topic for analysis. The dataset, data processing and analysis is clear and understandable. 
+
+The plot includes error and the data is normalized, thus making it easy to compare and interept across the categories. 
+
+My suggestion would be a rectanglular figure would be visually more inferential than the square plot. 
+One more little addition would be swaping the colors of _people injured_ with _people killed_ i.e have red color for _people killed_ as visually red color is more intuitively better for example - danger or a stop sign.
+
+The Legend - could be put into the center so as to not overlap the plot itself. 
+
+There is another addition that can be done to better the plot that you have expressed - there is no title for the plot
+If the title was added the whole idea of the plot would have been way more intuitive
+
+![](tdd255_1.png)
