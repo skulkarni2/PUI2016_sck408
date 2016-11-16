@@ -1,42 +1,14 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "# Plot review"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {
-    "collapsed": true
-   },
-   "outputs": [],
-   "source": []
-  }
- ],
- "metadata": {
-  "anaconda-cloud": {},
-  "kernelspec": {
-   "display_name": "Python [default]",
-   "language": "python",
-   "name": "python3"
-  },
-  "language_info": {
-   "codemirror_mode": {
-    "name": "ipython",
-    "version": 3
-   },
-   "file_extension": ".py",
-   "mimetype": "text/x-python",
-   "name": "python",
-   "nbconvert_exporter": "python",
-   "pygments_lexer": "ipython3",
-   "version": "3.5.2"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 1
-}
+Hey Franz,
+
+This is an interesting analysis of inequality by race and gender. The data and the analysis is clear through the start. 
+
+It is good idea to show both the plots and observe the difference between the plots with normalized data and absolute data.
+The addition of error to the lot shows the reader the account of statistical error in dataset. 
+
+My suggestion would be droping the 'Unknown' category as in both the plots its approximately zero. So it makes more sense to drop it. 
+
+The inference/caption from the normalized plot is missing and could add to the understanding of plot. 
+
+![](fhl204_1.png)
+
+![](fhl204_2.png)
