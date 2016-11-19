@@ -7,3 +7,5 @@ I worked alone on this assignment. I followed the instructions from Dr. Bianco's
 I worked with Sunny Kulkarni to test the null hypothesis and write a paper on our citibike project proposal. 
 The link to the paper [Seasonal Dynamics of NYC Citibike Usage](https://www.authorea.com/users/106040/articles/134260/_show_article).
 
+
+# FBB very good, see some comments in the Authorea article
