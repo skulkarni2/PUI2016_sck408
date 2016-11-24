@@ -1,6 +1,7 @@
 # Homework 10 Spatial Data Analysis
 
 I worked alone for this assignment. 
+
 I just followed the lab by Dr. Sina to complete the assignment. 
 
 Note: 
